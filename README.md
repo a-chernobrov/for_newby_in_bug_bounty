@@ -12,6 +12,8 @@
 #### Зарубежные площадки
 
 1. https://bugbounty.kz/ru#about
+2. https://hackerone.com
+3. https://www.bugcrowd.com
 
 
 
