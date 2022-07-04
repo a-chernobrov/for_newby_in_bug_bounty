@@ -1,23 +1,22 @@
-#Общий репозиторий сообщества Codeby BB
+# Общий репозиторий сообщества Codeby BB
 
-##Баг баунти площадки
+## Баг баунти площадки
 
-####Российские площадки
+#### Российские площадки
 
 1. https://bugbounty.ru/
 2. https://bugbounty.standoff365.com/#programs
 3. https://bi.zone/bug-bounty/?utm_source=telegram&utm_medium=post&utm_campaign=bug-bounty&utm_content=01.06.2022
 
 
-####Зарубежные площадки
+#### Зарубежные площадки
 
 1. https://bugbounty.kz/ru#about
 
 
 
-####Программы от компаний в России
+#### Программы от компаний в России
 
 1. https://kontur.ru/bugbounty
 2. https://corp.mamba.ru/ru/developer/security
-3. https://t.me/c/1591122804/263
-4. https://www.pik.ru/pages/bugs
+3. https://www.pik.ru/pages/bugs
