@@ -9,16 +9,22 @@
 3. https://bi.zone/bug-bounty/?utm_source=telegram&utm_medium=post&utm_campaign=bug-bounty&utm_content=01.06.2022
 
 
+#### Программы от компаний в России
+
+1. https://kontur.ru/bugbounty
+2. https://corp.mamba.ru/ru/developer/security
+3. https://www.pik.ru/pages/bugs
+
 #### Зарубежные площадки
 
 1. https://bugbounty.kz/ru#about
 2. https://hackerone.com
 3. https://www.bugcrowd.com
 
+## Телеграм-каналы о ББ
 
-
-#### Программы от компаний в России
-
-1. https://kontur.ru/bugbounty
-2. https://corp.mamba.ru/ru/developer/security
-3. https://www.pik.ru/pages/bugs
+1. Кавычка (https://t.me/webpwn) - Блог баг хантера bOOm
+2. The Bug Bounty Hunter (The Bug Bounty Hunter) - англоязычный телеграм-канал, где публикуют новости о самых интересных обнаруженных исследователями уязвимостях.
+3. Bounty On Coffee (https://t.me/BountyOnCoffee) - канал r0hack. Известного Баг хантера и члена сообщества Codeby
+4. Поросёнок Пётр (https://t.me/pigPeter) - канал действующего Баг хантера.
+5. Bounty PLZ (https://t.me/BugBountyPLZ) - канал действующего Баг хантера.
