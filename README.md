@@ -1,5 +1,10 @@
 # Общий репозиторий сообщества Codeby BB
 
+[Практические лаборатории](https://github.com/a-chernobrov/for_newby_in_bug_bounty/blob/main/practice/PRACTICE.md)
+
+
+
+
 ## Баг баунти площадки
 
 #### Российские площадки
