@@ -17,7 +17,8 @@
 11. [LFI,RFI.CMDi](https://github.com/paralax/lfi-labs)
 12. [SQL injection](https://github.com/breakthenet/HackMe-SQL-Injection-Challenges)
 13. [SQL injection](https://github.com/Audi-1/sqli-labs) - самая большая лаба по SQLi
-
+14. [Data leak](https://wrongsecrets.herokuapp.com/) - большая лаба по утечке данных от OWASP
+15. [AZURE Penetration testing](https://azure.enterprisesecurity.io) - большая лаба по безопастности AZURE
 
 #### Лаборатории с разбором уязвимостей
 
@@ -27,3 +28,5 @@
 4. [Kontra AWS Top 10 cloud](https://application.security/free/kontra-aws-clould-top-10)
 5. [Kontra Front-end Top 10](https://application.security/free/kontra-front-end-top-10)
 6. [XXE](https://gosecure.github.io/xxe-workshop/#0)
+
+
