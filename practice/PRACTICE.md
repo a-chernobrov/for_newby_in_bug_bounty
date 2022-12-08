@@ -2,6 +2,14 @@
 
 ## Тут будут доступны уязвимые лаборатории и материалы по атакам
 
+### Материалы для обучения
+
+1. [Offensive Security](https://github.com/a-chernobrov/for_newby_in_bug_bounty/tree/main/practice/offensive%20security%20coures)
+
+
+
+
+
 ### Лаборатории без разбора уязвимостей
 
 1. [Nahamsec's Intro To Bug Bounty](https://github.com/nahamsec/nahamsec.training)
