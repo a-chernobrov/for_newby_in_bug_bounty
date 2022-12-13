@@ -5,11 +5,11 @@
 
 # Материалы разных курсов и презентаций
 
-[Offensive Security](https://github.com/a-chernobrov/for_newby_in_bug_bounty/tree/main/practice/offensive%20security%20coures)
+[Offensive Security "password:RESOLUTE ATTACK"](https://github.com/a-chernobrov/for_newby_in_bug_bounty/tree/main/practice/offensive%20security%20coures)
 
 
 ## Баг баунти площадки
-
+ 
 #### Российские площадки
 
 1. https://bugbounty.ru/
