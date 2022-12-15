@@ -28,6 +28,7 @@
 14. [Data leak](https://wrongsecrets.herokuapp.com/) - большая лаба по утечке данных от OWASP
 15. [AZURE Penetration testing](https://azure.enterprisesecurity.io) - большая лаба по безопастности AZURE
 16. [Vulnerable Adversely Programmed Interface](https://github.com/roottusk/vapi) - лаба OWASP Top 10 API
+16. [vulnerable-website](https://vulnerable-website.com/) - лаба от portswigger. Много уяз, по типу джуси шопа от OWASP
 
 #### Лаборатории с разбором уязвимостей
 
