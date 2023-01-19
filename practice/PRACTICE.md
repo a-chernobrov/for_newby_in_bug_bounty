@@ -30,6 +30,11 @@
 16. [Vulnerable Adversely Programmed Interface](https://github.com/roottusk/vapi) - лаба OWASP Top 10 API
 16. [vulnerable-website](https://vulnerable-website.com/) - лаба от portswigger. Много уяз, по типу джуси шопа от OWASP
 17. [XSSlabs](https://xsslabs.com/) - XSSlab с задачами по санитизации
+18. [SSRF lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) - SSRF lab
+18. [SSRF lab](https://github.com/ScaleSec/vulnado/tree/master) - SSRF lab
+19. [SSRF lab](https://github.com/m6a-UdS/ssrf-lab) - SSRF lab
+19. [SSRF lab](https://github.com/Captain-K-101/Ssrf-labs) - SSRF lab
+20. [SSRF lab](https://github.com/rhamaa/Web-Hacking-Lab) - SSRF lab with [writeup](https://infosecwriteups.com/server-side-request-forgery-to-internal-smtp-access-dea16fe37ed2)
 
 
 #### Лаборатории с разбором уязвимостей
@@ -40,5 +45,6 @@
 4. [Kontra AWS Top 10 cloud](https://application.security/free/kontra-aws-clould-top-10)
 5. [Kontra Front-end Top 10](https://application.security/free/kontra-front-end-top-10)
 6. [XXE](https://gosecure.github.io/xxe-workshop/#0)
-
+7. [Many vulnerabilitys in lessons](https://learn.snyk.io/lessons/)
+8. [SSRF lab](https://github.com/BenjiTrapp/ssrf-playground) - SSRF lab
 
