@@ -36,6 +36,13 @@
 19. [SSRF lab](https://github.com/Captain-K-101/Ssrf-labs) - SSRF lab
 20. [SSRF lab](https://github.com/rhamaa/Web-Hacking-Lab) - SSRF lab with [writeup](https://infosecwriteups.com/server-side-request-forgery-to-internal-smtp-access-dea16fe37ed2)
 
+21. [Deserialization](https://hub.docker.com/r/dockerbucket/insecure_deserialization) - Python\Flask
+22. [Deserialization and many other](https://github.com/Yavuzlar/VulnLab) - Many vulnerability lab
+23. [Deserialization](https://github.com/NotSoSecure/NotSoCereal-Lab#deployment) - Java, PHP, Node, Python
+
+
+
+
 
 #### Лаборатории с разбором уязвимостей
 
